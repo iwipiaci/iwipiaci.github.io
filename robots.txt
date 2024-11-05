@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwipiaci.github.io/CgM/sitemap_index.txt
+Sitemap: https://iwipiaci.github.io/WIB/sitemap_index.txt
+Sitemap: https://iwipiaci.github.io/fiP/sitemap_index.txt
+Sitemap: https://iwipiaci.github.io/oid/sitemap_index.txt
